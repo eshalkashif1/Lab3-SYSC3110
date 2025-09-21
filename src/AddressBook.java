@@ -27,6 +27,7 @@ public class AddressBook {
         book1.removeBuddy(bud1);
 
         System.out.println("1 Buddy added to Address Book");
+        System.out.println("This is a change made on GitHub");
 
     }
 }
